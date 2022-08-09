@@ -1,0 +1,12 @@
+
+main{
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+header .active{
+    
+        font-weight: bold;
+        color: red;
+      
+}
